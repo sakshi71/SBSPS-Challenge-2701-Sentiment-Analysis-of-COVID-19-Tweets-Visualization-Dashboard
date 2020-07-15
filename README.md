@@ -5,9 +5,9 @@ Checkout my project in this sequence:
 1. Sentiment Analysis 
 2. Dashboard
 3. Front end pages
-4. Final year project
+4. Final project
 
-To run final year project run command like:
+To run final project run command like:
 python main.py
 
 our video Presentation
